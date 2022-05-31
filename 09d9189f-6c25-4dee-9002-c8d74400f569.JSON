@@ -1,0 +1,499 @@
+{
+    "id": {
+        "theId": "/StudioMoveData/09d9189f-6c25-4dee-9002-c8d74400f569"
+    },
+    "actionList": [
+        {
+            "musicActionType": 2,
+            "musicActionJSON": "{\"startTime\":0.0,\"beatNumber\":0.0,\"musicActiontype\":2,\"segmentBPM\":160.0}"
+        },
+        {
+            "musicActionType": 3,
+            "musicActionJSON": "{\"startTime\":0.0,\"beatNumber\":0.0,\"musicActiontype\":3,\"wavFilePath\":\"/AudioMetaData/c228c8b3-a1c0-44cb-a30f-885081e2a697\",\"trackId\":\"/AudioMetaData/c228c8b3-a1c0-44cb-a30f-885081e2a697\"}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":3.0,\"beatNumber\":4.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":100,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":3.75,\"beatNumber\":5.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":4.5,\"beatNumber\":6.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":100,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":6.0,\"beatNumber\":8.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":100,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":6.75,\"beatNumber\":9.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":7.5,\"beatNumber\":10.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":100,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":9.0,\"beatNumber\":12.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":100,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":9.75,\"beatNumber\":13.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":10.5,\"beatNumber\":14.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":100,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":11.25,\"beatNumber\":15.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":12.0,\"beatNumber\":16.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":12.75,\"beatNumber\":17.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":13.5,\"beatNumber\":18.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":1,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":14.25,\"beatNumber\":19.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":15.0,\"beatNumber\":20.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":15.75,\"beatNumber\":21.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":16.5,\"beatNumber\":22.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":18.0,\"beatNumber\":24.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":18.75,\"beatNumber\":25.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":19.5,\"beatNumber\":26.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":105,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":21.0,\"beatNumber\":28.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":105,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":21.75,\"beatNumber\":29.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":22.5,\"beatNumber\":30.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":23.25,\"beatNumber\":31.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":24.0,\"beatNumber\":32.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":24.75,\"beatNumber\":33.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":25.5,\"beatNumber\":34.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":1,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":26.25,\"beatNumber\":35.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":27.0,\"beatNumber\":36.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":27.75,\"beatNumber\":37.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":28.5,\"beatNumber\":38.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":30.0,\"beatNumber\":40.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":30.75,\"beatNumber\":41.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":31.5,\"beatNumber\":42.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":105,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":33.0,\"beatNumber\":44.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":105,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":33.75,\"beatNumber\":45.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":34.5,\"beatNumber\":46.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":35.25,\"beatNumber\":47.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":36.0,\"beatNumber\":48.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":36.375,\"beatNumber\":48.5,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":39.0,\"beatNumber\":52.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":39.375,\"beatNumber\":52.5,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":42.0,\"beatNumber\":56.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":42.375,\"beatNumber\":56.5,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":5,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":45.0,\"beatNumber\":60.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":5,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":45.375,\"beatNumber\":60.5,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":48.0,\"beatNumber\":64.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":105,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":48.75,\"beatNumber\":65.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":49.5,\"beatNumber\":66.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":50.25,\"beatNumber\":67.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":51.0,\"beatNumber\":68.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":51.75,\"beatNumber\":69.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":52.5,\"beatNumber\":70.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":1,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":53.25,\"beatNumber\":71.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":54.0,\"beatNumber\":72.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":105,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":54.75,\"beatNumber\":73.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":55.5,\"beatNumber\":74.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":56.25,\"beatNumber\":75.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":57.0,\"beatNumber\":76.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":57.75,\"beatNumber\":77.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":58.5,\"beatNumber\":78.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":1,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":59.25,\"beatNumber\":79.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":60.0,\"beatNumber\":80.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":105,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":60.75,\"beatNumber\":81.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":61.5,\"beatNumber\":82.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":62.25,\"beatNumber\":83.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":63.0,\"beatNumber\":84.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":63.75,\"beatNumber\":85.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":64.5,\"beatNumber\":86.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":1,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":65.25,\"beatNumber\":87.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":66.0,\"beatNumber\":88.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":105,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":66.75,\"beatNumber\":89.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":67.5,\"beatNumber\":90.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":68.25,\"beatNumber\":91.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":69.0,\"beatNumber\":92.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":69.75,\"beatNumber\":93.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":70.5,\"beatNumber\":94.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":1,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":71.25,\"beatNumber\":95.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":72.0,\"beatNumber\":96.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":73.5,\"beatNumber\":98.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":110,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":75.0,\"beatNumber\":100.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":76.5,\"beatNumber\":102.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":110,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":78.0,\"beatNumber\":104.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":79.5,\"beatNumber\":106.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":110,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":81.0,\"beatNumber\":108.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":82.5,\"beatNumber\":110.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":110,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":84.0,\"beatNumber\":112.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":84.75,\"beatNumber\":113.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":85.5,\"beatNumber\":114.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":86.25,\"beatNumber\":115.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":87.0,\"beatNumber\":116.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":100,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":87.75,\"beatNumber\":117.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":100,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":88.5,\"beatNumber\":118.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":100,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":90.0,\"beatNumber\":120.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":90.375,\"beatNumber\":120.5,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":90.75,\"beatNumber\":121.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":93.0,\"beatNumber\":124.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":2,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":96.0,\"beatNumber\":128.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":96.75,\"beatNumber\":129.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":97.5,\"beatNumber\":130.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":98.25,\"beatNumber\":131.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":103,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":99.0,\"beatNumber\":132.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":100,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":99.75,\"beatNumber\":133.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":100,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":100.5,\"beatNumber\":134.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":100,\"moveChannel\":2,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":102.0,\"beatNumber\":136.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":102.375,\"beatNumber\":136.5,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":102.75,\"beatNumber\":137.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":105.0,\"beatNumber\":140.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":105.375,\"beatNumber\":140.5,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":105.75,\"beatNumber\":141.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":108.0,\"beatNumber\":144.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":108.375,\"beatNumber\":144.5,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":108.75,\"beatNumber\":145.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":109.125,\"beatNumber\":145.5,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":111.0,\"beatNumber\":148.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":111.375,\"beatNumber\":148.5,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":111.75,\"beatNumber\":149.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":112.125,\"beatNumber\":149.5,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":114.0,\"beatNumber\":152.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":101,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":114.375,\"beatNumber\":152.5,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":4,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        },
+        {
+            "musicActionType": 0,
+            "musicActionJSON": "{\"startTime\":114.75,\"beatNumber\":153.0,\"musicActiontype\":0,\"moveAction\":{\"moveType\":102,\"moveChannel\":0,\"lane\":0,\"sequenceBeat\":0,\"actionOffset\":0.0}}"
+        }
+    ]
+}
