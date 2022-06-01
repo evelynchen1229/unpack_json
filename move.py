@@ -12,42 +12,36 @@ def get_type(item, item_type):
 def get_dict_value(dictionary_value):
     return list(dictionary_value.values())[0]
 
-new_key = ['id']
-new_value = []
+def load_json_to_dataframe(file_name):
+    with open(f'{file_name}','r+') as f:
+        data = json.load(f)
+    
+    data_id = data['id']['theId']
+    
+    df = pd.json_normalize(data, 'actionList','id')
+    number_of_records = len(df['musicActionJSON'])
+    list_music_action = []
+    for n in range(0,number_of_records):
+        json_music = json.loads(df['musicActionJSON'][n])
+        last_value = list(json_music.values())[-1]
+        if get_type(last_value,'dict'):
+            last_item = json_music.popitem()[-1]
+            json_music = {**json_music, **last_item}
+        
+        list_music_action.append(json_music)
+    
+    df_music_action = pd.DataFrame(list_music_action)
+    df_music_action['id']=data_id
+    col =['id'] + list(df_music_action.columns[:-1])
+    return df_music_action[col]
 
-with open('movedata/09d9189f-6c25-4dee-9002-c8d74400f569.json','r+') as f:
-    data = json.load(f)
+final_df = pd.DataFrame()
+path_to_json = 'movedata/'
+json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.JSON')]
 
-for value in data.values():
-    if get_type(value,'dict'):
-       new_value.append(get_dict_value(value))
-    elif get_type(value,'list'):
-        for v in value:
-            move_value_str = v['musicActionJSON']
-            move_value_dict = ast.literal_eval(move_value_str)
-            for (mk,mv) in zip(move_value_dict.keys(), move_value_dict.values()):
-                if get_type(mv,'dict'):
-                    for k in mv.keys():
-                        new_key.append(k)
-                    for v in mv.values():
-                        new_value.append(v)
-                else:
-                    new_key.append(mk)
-                    new_value.append(mv)
-    else:
-        pass
+for json_file in json_files:
+    df = load_json_to_dataframe(path_to_json + json_file)
+    final_df = pd.concat([final_df, df])
 
-print(new_value[1:])
-print(new_key[1:])
-new_dict = dict(zip(new_key[1:],new_value[1:]))
-print(new_dict)
-df = pd.DataFrame.from_dict(new_dict, orient='index')
-df = df.transpose()
-print(df)
-#df = df.explode('sequenceId')
-##print(df['sequenceId'])
-#
-#path_to_json = 'sequence/'
-#json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
-##engine = create_engine('postgresql://evelyn:Indie$2912@localhost:5432/template')
-##df.to_sql('class_sequence',engine,index=False)
+engine = create_engine('postgresql://evelyn:Indie$2912@localhost:5432/template')
+final_df.to_sql('move_data',engine,index=False)
