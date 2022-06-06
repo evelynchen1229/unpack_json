@@ -2,6 +2,11 @@ import json
 import re
 import pandas as pd
 from sqlalchemy import create_engine
+import sqlalchemy as sa
+from sqlalchemy.engine.url import URL
+from sqlalchemy import orm as sa_orm
+from sqlalchemy_redshift.dialect import TIMESTAMPTZ, TIMETZ
+
 
 def get_type(item, item_type):
     print_type = f"<class '{item_type}'>"
@@ -34,5 +39,17 @@ df = df.transpose()
 df = df.explode('sequenceId')
 #print(df['sequenceId'])
 
-engine = create_engine('postgresql://evelyn:Indie$2912@localhost:5432/template')
-df.to_sql('class_sequence',engine,index=False)
+#engine = create_engine('postgresql://username:pw@host:port/database')
+#df.to_sql('class_sequence',engine,index=False)
+#df.to_csv('class_sequence',index=False)
+#url = URL.create(
+#        drivername = 'redshift+redshift_connector',
+#        host = 'host', 
+#        port = 5439,
+#        database = 'dev',
+#        username = 'username',
+#        password = 'password'
+#        )
+#engine = sa.create_engine(url)
+engine = create_engine('redshift+psycopg2://username:password@host:port/database')
+df.to_sql('class_sequence',engine,schema = 'user_echen',if_exists='replace',index=False)

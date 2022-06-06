@@ -43,5 +43,6 @@ for json_file in json_files:
     df = load_json_to_dataframe(path_to_json + json_file)
     final_df = pd.concat([final_df, df])
 
-engine = create_engine('postgresql://evelyn:Indie$2912@localhost:5432/template')
-final_df.to_sql('move_data',engine,index=False)
+#engine = create_engine('postgresql://username:password@host:port/database')
+engine = create_engine('redshift+psycopg2://username:pw@host:port/database')
+final_df.to_sql('move_data',engine,schema = 'user_echen',if_exists = 'replace',index=False)
